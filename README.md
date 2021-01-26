@@ -1,5 +1,3 @@
-# silversburguer
-
 # **Silvers Burguer**
 Desenvolvemos como grupo (https://github.com/Bieell, https://github.com/patricksp08, https://github.com/JoaoOFS e https://github.com/Oseias-maker) o site estático de uma hamburgueria, utilizando do html, css e do javascript para tal.
 
