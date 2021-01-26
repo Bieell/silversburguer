@@ -1,5 +1,6 @@
 # silversburguer
 Trabalho Acadêmico da matéria Lima realizado em grupo para atribuir nota ao primeiro semestre do Curso Técnico de Desenvolvimento de Sistemas do Senai.
+**Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
 
 # **Silvers Burguer**
 Desenvolvemos em conjunto (https://github.com/Bieell, https://github.com/patricksp08, https://github.com/JoaoOFS e https://github.com/Oseias-maker) o site estático de uma hamburgueria, utilizando do html, css e do javascript para tal.
@@ -12,8 +13,6 @@ Além disso, utilizamos o Adobe color para definir as cores do site, principalme
 Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para projetar e planejar corretamente o design e estrutura de nosso site.
 
 **Atividade Solicitada por: Professor Danilo da Turma 1DM do Senai.**
-
-**Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
 
 
 &nbsp;
