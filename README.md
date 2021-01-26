@@ -1,6 +1,6 @@
 # silversburguer
 
-# Silver's Burguer
+# **Silvers Burguer**
 Desenvolvemos como grupo (https://github.com/Bieell, https://github.com/patricksp08, https://github.com/JoaoOFS e https://github.com/Oseias-maker), o site estático de uma hamburgueria, utilizando do html, css e do javascript para tal.
 
 Com o auxilio da ferramenta Live Share, programamos o site todos em conjunto, em tempo real. Fizemos primeiramente a pagina inicial utilizando de inspiração layouts de outros sites e como parte do layout do site utilizamos o adobe color para compor a paleta de cores do Silvers Burguer.
@@ -14,7 +14,10 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
 **GITHUB**
 
 **Repositório:** [**https://github.com/Luccazx12/silversburguer**](https://github.com/Luccazx12/silversburguer) **/**
+
 **Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
+&nbsp;
+ 
  
  ## **Wireframe**
  
@@ -24,25 +27,25 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
 
 
 ![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Wireframe/Wireframe_SilversBurguer_Cardapio.jpg)
-
-
-
+&nbsp;
 
 
 ## **Layout da página codificada em HTML5 e CSS3, no navegador**
 
 ![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/layoutnav.png)
+&nbsp;
+
 
 ## **LOGO DA SILVERS BURGUER**
 
 ![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/LogoSB.png)
+&nbsp;
+
 
 ## **PALETA DE CORES USANDO O [ADOBE COLOR](https://color.adobe.com/pt/).**
 
 ![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/paleta.png)
+&nbsp;
+
 
 ![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/paleta2.png)
-
-
-
-
