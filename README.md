@@ -11,7 +11,6 @@ Além disso, utilizamos o Adobe color para definir as cores do site, principalme
 Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para projetar e planejar corretamente o design e estrutura de nosso site.
 
 **Atividade Solicitada por: Professor Danilo da Turma 1DM do Senai.**
-**GITHUB**
 
 **Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
 
