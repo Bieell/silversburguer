@@ -40,7 +40,7 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
 &nbsp;
 
 
-## **LOGO DA SILVERS BURGUER**
+## **Logo da Silvers Burguer**
 
 ![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/LogoSB.png)
 
@@ -48,7 +48,7 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
 &nbsp;
 
 
-## **PALETA DE CORES USANDO O [ADOBE COLOR](https://color.adobe.com/pt/).**
+## **Paleta de cores usando o [Adobe Color](https://color.adobe.com/pt/).**
 
 ![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/paleta.png)
 
