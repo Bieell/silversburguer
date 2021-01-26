@@ -22,11 +22,8 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
  
  
  ## **Wireframe**
- 
- 
- &nbsp;
- 
- ### Página Inicial
+
+### Página Inicial
 ![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Wireframe/Wireframe_SilversBurguer_PagInicial.jpg)
 
 &nbsp;
