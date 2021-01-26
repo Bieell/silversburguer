@@ -11,40 +11,38 @@ Além disso, utilizamos o Adobe color para definir as cores do site, principalme
 Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para projetar e planejar corretamente o design e estrutura de nosso site.
 
 **Atividade Solicitada por: Professor Danilo da Turma 1DM do Senai.**
+**GITHUB**
+
+**Repositório:** [**https://github.com/Luccazx12/silversburguer**](https://github.com/Luccazx12/silversburguer) **/**
+**Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
  
- ## Wireframe
+ ## **Wireframe**
  
 ![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Wireframe/Wireframe_SilversBurguer_PagInicial.jpg)
 
-&nbsp
+&nbsp;
 
 
 ![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Wireframe/Wireframe_SilversBurguer_Cardapio.jpg)
 
-![image](RackMultipart20210126-4-o7empf_html_2e8d4da032253915.png)
-
-
-**SILVERS BURGUER**
 
 
 
 
-**Layout da página codificada em HTML5 e CSS3, no navegador**
+## **Layout da página codificada em HTML5 e CSS3, no navegador**
 
-![](RackMultipart20210126-4-o7empf_html_476bbfc6bee92551.png)
+![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/layoutnav.png)
 
-**LOGO DA SILVERS BURGUER**
+## **LOGO DA SILVERS BURGUER**
 
-![](RackMultipart20210126-4-o7empf_html_b9cdb772cb555d09.png)
+![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/LogoSB.png)
 
-**PALETA DE CORES USANDO O [ADOBE COLOR](https://color.adobe.com/pt/).**
+## **PALETA DE CORES USANDO O [ADOBE COLOR](https://color.adobe.com/pt/).**
 
-![](RackMultipart20210126-4-o7empf_html_6e4ef96ee1365421.png)
+![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/paleta.png)
 
-![](RackMultipart20210126-4-o7empf_html_d86fef90bb5eaef1.png)
+![Image](https://github.com/Luccazx12/silversburguer/blob/main/silvers_burguer/Imagens/paleta2.png)
 
-**GITHUB**
 
-**Repositório:** [**https://github.com/Luccazx12/silversburguer**](https://github.com/Luccazx12/silversburguer) **/**
 
-**Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
+
