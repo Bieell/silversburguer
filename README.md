@@ -13,8 +13,6 @@ Fizemos tudo isso após criar um WireFrame do projeto através do Draw.io para p
 **Atividade Solicitada por: Professor Danilo da Turma 1DM do Senai.**
 **GITHUB**
 
-**Repositório:** [**https://github.com/Luccazx12/silversburguer**](https://github.com/Luccazx12/silversburguer) **/**
-
 **Site:** [**https://luccazx12.github.io/silversburguer/silvers\_burguer/**](https://luccazx12.github.io/silversburguer/silvers_burguer/)
 
 
